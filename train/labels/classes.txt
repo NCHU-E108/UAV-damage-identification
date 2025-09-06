@@ -1,0 +1,9 @@
+rib fracture
+rib adhesion
+spar fracture
+spar adhesion
+crack
+tresis
+skin detachment
+fracture
+
